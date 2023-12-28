@@ -1,0 +1,20 @@
+getwd()
+getwd()
+stu <-read.sv(""C:/Users/dsrup/OneDrive/Desktop/Student.csv")
+stu <-read.sv("C:/Users/dsrup/OneDrive/Desktop/Student.csv")
+stu <-read.csv("C:/Users/dsrup/OneDrive/Desktop/Student7.csv")
+str(stu)
+install.packages("ggplot2)
+install.packages("ggplot2")
+library(ggplot2)
+
+>sal <-read.csv("C:/Users/pcs/Desktop/Rprog/employeess.csv
+>sal <-read.csv("C:/Users/pcs/Desktop/Rprog/employeess.csv
+>sal <-read.csv("C:/Users/pcs/Desktop/Rprog/employeess.csv
+id <-read.csv("C:/Users/dsrup/OneDrive/Desktop/Student.csv")
+den <- density(id$name)
+den <- density(id$age)
+den <- density(sal$Years.Of.Experience)
+> plot(den, frame = FALSE, col = "blue",main = "Density plot")
+plot(den,frame=FALSE,col='purple',main='Density plot')
+
